@@ -1,0 +1,25 @@
+.main{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+body{
+    background-color: black;
+}
+input{
+    background-color: rgba(240, 248, 255, 0);
+    border: 1px solid white;
+    height: 30px;
+    color: aliceblue;
+}
+::placeholder{
+    color: aliceblue;
+}
+button{
+    background-color: rgba(240, 248, 255, 0);
+    border: 1px solid white;
+    height: 33px;
+    color: aliceblue;
+}
